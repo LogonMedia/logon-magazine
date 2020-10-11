@@ -44,11 +44,11 @@ export default function ArticleListTemplate({ data, pageContext }) {
 }
 
 // The page query.
-//filter: { frontmatter: { contentKey: { eq: "article" } } }
 export const query = graphql`
   query ArticleListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { contentKey: { eq: "article" } } }
       limit: $limit
       skip: $skip
     ) {

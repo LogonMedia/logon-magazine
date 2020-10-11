@@ -1,6 +1,7 @@
 ---
 title: Andersen and the "fairy tales"
 date: 2020-10-06T15:01:00.000Z
+contentKey: article
 ---
 ![Hans Christian Andersen](/img/hans-christian-andersen-271451_960_720-ronile.jpg "Andersen - Ronile-Pixabay CCO")
 

@@ -1,6 +1,7 @@
 ---
 title: Biblical plagues and their intent
 date: 2020-08-08T18:53:00.000Z
+contentKey: article
 ---
 ![Sky over the clouds](/img/biblical-plagues-sky-690293_1920.jpg "Biblical plagues and their intent")
 

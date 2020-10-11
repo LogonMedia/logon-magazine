@@ -1,6 +1,7 @@
 ---
 title: Comforting words
 date: 2020-01-09T15:50:00.000Z
+contentKey: article
 ---
 ![Flames](/img/daniele-levis-pelusi-endi1tkm1qq-unsplash2.jpg "Flames")
 

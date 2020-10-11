@@ -1,6 +1,7 @@
 ---
 title: The esoteric meaning of St. George and the dragon
 date: 2020-07-19T18:58:00.000Z
+contentKey: article
 ---
 ![Sitting woman](/img/woman-2877322_960_720-letraaa-pixabay-cco.gif "The esoteric meaning")
 

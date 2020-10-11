@@ -8,6 +8,7 @@ export default function ArticleList() {
     {
       allMarkdownRemark(
         sort: { fields: frontmatter___date, order: DESC }
+        filter: { frontmatter: { contentKey: { eq: "article" } } }
         limit: 4
       ) {
         edges {

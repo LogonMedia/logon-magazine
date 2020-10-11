@@ -1,6 +1,7 @@
 ---
 title: The Goddess
 date: 2020-07-02T19:03:00.000Z
+contentKey: article
 ---
 ![Womans face](/img/the-goddess-8c6647e1631f72352418e725badfb161-foto-pinterest.jpg "The Goddess")
 

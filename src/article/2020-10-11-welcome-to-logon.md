@@ -1,6 +1,7 @@
 ---
 title: Welcome to LOGON
 date: 2017-11-07T14:25:00.000Z
+contentKey: article
 ---
 ## Welcome to LOGON - the online magazine of the Golden Rosycross.
 
