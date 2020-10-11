@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 import styles from "./Layout.module.css"
 
 export default function Layout({ children }) {
@@ -6,7 +7,9 @@ export default function Layout({ children }) {
     <div>
       <header id={styles.header}>
         <div id={styles.inner}>
-          <h1>LOGON Magazine</h1>
+          <h1>
+            <Link to="/">LOGON Magazine</Link>
+          </h1>
         </div>
       </header>
       <main id={styles.main}>{children}</main>

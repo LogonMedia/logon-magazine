@@ -14,6 +14,9 @@ export default function ArticleList() {
               title
               date(formatString: "MMMM D, YYYY")
             }
+            fields {
+              slug
+            }
             excerpt
           }
         }
@@ -26,6 +29,7 @@ export default function ArticleList() {
       {data.allMarkdownRemark.edges.map(edge => (
         <ArticlePost
           key={edge.node.div}
+          slug={edge.node.fields.slug}
           title={edge.node.frontmatter.title}
           date={edge.node.frontmatter.date}
           excerpt={edge.node.excerpt}
