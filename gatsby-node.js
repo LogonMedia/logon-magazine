@@ -35,10 +35,33 @@ exports.createPages = async function({ graphql, actions }) {
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.fields.slug,
-      component: path.resolve("./src/templates/article.js"),
+      component: path.resolve("./src/templates/Article.js"),
       context: {
         slug: node.fields.slug,
       },
     })
   })
+
+  const posts = result.data.allMarkdownRemark.edges
+  const pageSize = 4
+  const pageCount = Math.ceil(posts.length / pageSize)
+  const templatePath = path.resolve("src/templates/article-list.js")
+
+  for (let i = 0; i < pageCount; i++) {
+    let path = "/article"
+    if (i > 0) {
+      path += `/${i + 1}`
+    }
+
+    createPage({
+      path,
+      component: templatePath,
+      context: {
+        limit: pageSize,
+        skip: i * pageSize,
+        pageCount,
+        currentPage: i + 1,
+      },
+    })
+  }
 }

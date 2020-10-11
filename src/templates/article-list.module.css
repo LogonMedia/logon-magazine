@@ -1,0 +1,28 @@
+#hero {
+  height: 25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#hero h1 {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 5rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  background: #f0f0f0;
+}
+
+article-list {
+  padding: 1rem;
+}
+
+#page-links {
+  padding: 1rem;
+}
+
+#page-links a {
+  margin: 1rem;
+}

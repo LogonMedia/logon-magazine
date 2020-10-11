@@ -1,12 +1,15 @@
 import React from "react"
-import { graphql, useStaticQuery } from "gatsby"
+import { Link, graphql, useStaticQuery } from "gatsby"
 
 import ArticlePost from "./ArticlePost"
 
 export default function ArticleList() {
   const data = useStaticQuery(graphql`
     {
-      allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+      allMarkdownRemark(
+        sort: { fields: frontmatter___date, order: DESC }
+        limit: 4
+      ) {
         edges {
           node {
             id
@@ -35,6 +38,9 @@ export default function ArticleList() {
           excerpt={edge.node.excerpt}
         />
       ))}
+      <div>
+        <Link to="/article">More >></Link>
+      </div>
     </div>
   )
 }

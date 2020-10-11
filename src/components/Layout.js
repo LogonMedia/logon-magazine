@@ -10,6 +10,7 @@ export default function Layout({ children }) {
           <h1>
             <Link to="/">LOGON Magazine</Link>
           </h1>
+          <Link to="/article">Articles</Link>
         </div>
       </header>
       <main id={styles.main}>{children}</main>
