@@ -1,13 +1,10 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
-  Gatsby's hello-world starter
+  LOGON Magazine starter
 </h1>
 
+<<<<<<< HEAD
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
@@ -15,6 +12,9 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 
 ##  What's inside?
+=======
+## What's inside?
+>>>>>>> 5648d59e5e945d039a977c3e1b4c5eb1b0df83f9
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
@@ -56,6 +56,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
+<<<<<<< HEAD
 ## 🎓 Learning Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
@@ -65,5 +66,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 
+=======
+>>>>>>> 5648d59e5e945d039a977c3e1b4c5eb1b0df83f9
 
 <!-- AUTO-GENERATED-CONTENT:END -->
