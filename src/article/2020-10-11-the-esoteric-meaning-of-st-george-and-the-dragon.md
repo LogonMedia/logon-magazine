@@ -1,0 +1,25 @@
+---
+title: The esoteric meaning of St. George and the dragon
+date: 2020-07-19T18:58:00.000Z
+---
+![Sitting woman](/img/woman-2877322_960_720-letraaa-pixabay-cco.gif "The esoteric meaning")
+
+
+
+## The legend of Saint George and the dragon is well known and celebrated in many countries (Portugal, Georgia, England, for example), and also in regions of Spain (Catalonia and Aragon).
+
+The legend is based on George of Cappadocia, who was supposedly born around the third century AD. The future saint, who was canonized by Pope Gelasius I in 494, was the son of a wealthy Roman noble family of the Christian religion.
+
+His legend, although there are various versions, can be summarized as follows: a fierce dragon terrorized the region of Silca(?), killing children, young people and women. One day, the dragon demanded to be given the beautiful daughter of the King of Silene. The monarch resisted such a request, and offered all his belongings in exchange for his daughter's life. In the face of such a proposal, the indignant people demanded that the king hand over his daughter. In order to appease his subordinates, the monarch agreed to hand over the princess to the dragon. After blessing his daughter, he left her outside the walls as a prey for the beast. At that moment, George arrived at the city gates and asked the young woman why she was crying. Aware of the situation, the knight offered to help the princess. When the dragon arrived, George drew his sword and faced the beast, astride his white horse. After a fierce fight, the saint defeated the beast.
+
+It is clear that the legend is linked to various knightly orders that participated in the Crusades, and in the defense of the Christian people against the infidels. It also alludes to apocryphal stories full of "extravagances and wonders beyond all credibility", as recorded in the "Acta Sanctorum" (the "Acts of the Saints"), a compilation of the different traditions about the saints, begun in 1643.
+
+Curiously, the myth, as it is celebrated in Catalan lands, is linked to the feast of the Rose (symbol of the spiritual principle present in human beings), and of the Book (symbol of wisdom), an event in which the feast of Saint George (23rd March) is commemorated.
+
+The legend of St. George and the dragon hides a clearly esoteric meaning, which we will try to elucidate. Let us first look at the symbolism of the dragon. The dragon (from the Latin draco, derived from the Greek drakon, "serpent") encompasses different symbolisms, according to different cultures. Curiously, in Hellenic culture it is presented to us as a treasure-keeping animal: Ladon, a dragon with a hundred heads that guarded the golden apples of the garden of Hesperides; Fafnir, the dragon that guarded the treasure of the Nibelungs, in Nordic mythology, whose blood made Siegfried almost invulnerable, and related to wisdom (the Caduceus, Uroboros...); in India it is identified with Agni, the Vedic god of fire. Also, the dragon has remained associated with the demonic, with evil, destruction and impiety (Leviathan, Culebre...).
+
+Thus, we see that the dragon is one of the mythological animals charged with the greatest symbolism. Such symbolism becomes clear when we realize that the dragon, or winged serpent, represents the serpentine fire that runs through our brain-spinal system with its seven chakras; hence, in many myths it is presented to us with seven heads.
+
+We should clarify that, in reality, there are two types of serpentine fires and three sources of "Kundalini". Generally, when speaking of Kundalini, one is referring to the invisible energy represented by a serpent, or dragon, which sleeps coiled in the base chakra, and whose awakening permits the acquisition of diverse occult powers (clairvoyance, etc.). This base-chakra “Kundalini" is an energy so powerful and uncontrollable that it can easily escape all control and become a devastating energy, both on a physical and psychic level. It is the devastating dragon that devours children and young people (those who have not matured spiritually), and young princesses (the soul). The knight (the initiate), protected by his armour, with sword in hand (symbol of the Spirit), must face this powerful force and defeat it. How? Detailing this process would necessarily lead us to give explanations found elsewhere, so we will limit ourselves to pointing out that the experienced candidate will never seek to awaken the "kundalini" of the base chakra first, but will initially focus his interest on the "kundalini" of the heart and, later, on the "kundalini" of the head. Only once these two spiritual forces are awakened, will he be prepared to face the "kundalini" of the base chakra, whose victory will bring about the total transformation of his being.
+
+We can conclude that St. George's fight against the dragon represents the fight that the candidate for the initiation process must carry out against all the ties, and all the "karma" accumulated in his micro-cosmic field. Once the dragon has been put to death, his blood (the serpentine fire renewed by the Spirit) will confer upon him the elixir of immortality.
